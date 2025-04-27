@@ -47305,7 +47305,7 @@ f6(){var s=this,r=s.b,q=s.d,p=s.e
 if(p==null)p=""
 return A.a8(["userbook_id",s.a,"book_id",r,"user_id",s.c,"description",q,"book_photo",p,"book",s.f.f6()],t.N,t.z)}}
 A.qP.prototype={
-I(a){return A.aHQ(!1,new A.oX(null),$.aGx(),"Book Adding")}}
+I(a){return A.aHQ(!1,new A.oX(null),$.aGx(),"ExBooK")}}
 A.od.prototype={
 aa(){return new A.Hq(new A.dy(B.aq,$.at()),A.a([],t.Su))}}
 A.Hq.prototype={
@@ -48690,7 +48690,7 @@ A.aDW.prototype={
 $0(){return this.a.aid(this.b)},
 $S:0}
 A.QS.prototype={
-I(a){return A.aHQ(!1,this.c,$.aGx(),"")}}
+I(a){return A.aHQ(!1,this.c,$.aGx(),"ExBooK")}}
 A.jN.prototype={
 aa(){var s=$.at()
 return new A.Wh(new A.dy(B.aq,s),new A.dy(B.aq,s))}}
